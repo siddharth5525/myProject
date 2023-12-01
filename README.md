@@ -1,2 +1,2 @@
 # myProject
-I am creating a project for solving a big problem in student life.
+I am creating a project for solving a big problem in day to day life.
